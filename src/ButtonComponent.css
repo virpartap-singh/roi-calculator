@@ -1,0 +1,12 @@
+.btn > button {
+    margin-right: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    width: 100px;
+    height: 35px;
+}
+
+.btn_selected >button {
+    background-color: #DDB82A;
+}

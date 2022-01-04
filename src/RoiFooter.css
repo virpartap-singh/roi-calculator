@@ -1,0 +1,28 @@
+.hide_details {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.apy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.apy > h2 {
+    color: #DDB82A;
+}
+
+.calculation {
+    margin-top : 10px;
+}
+
+.calculation >ul {
+    padding: 15px;
+}
+
+.calculation >ul {
+    color: #9c9ea1; 
+}
