@@ -3,8 +3,8 @@
     border: none;
     border-radius: 20px;
     background-color: whitesmoke;
-    width: 100px;
-    height: 35px;
+    /* width: 100px;
+    height: 35px; */
 }
 
 .btn_selected >button {
